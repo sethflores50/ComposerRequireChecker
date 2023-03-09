@@ -2,14 +2,14 @@
   "symbol-whitelist" : [],
   "php-core-extensions" : [
     "Core",
-    "date",
-    "json",
+    "03/08/2023",
+    "scan everything",
     "pcre",
     "Phar",
     "Reflection",
     "SPL",
-    "random",
-    "standard"
+    "iphone 12",
+    "complicated "
   ],
   "scan-files" : []
 }
